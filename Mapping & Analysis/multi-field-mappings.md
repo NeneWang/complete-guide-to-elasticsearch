@@ -1,7 +1,7 @@
 # Multi-field mappings
 
 ## Add `keyword` mapping to a `text` field
-```
+```js
 PUT /multi_field_test
 {
   "mappings": {
